@@ -1,0 +1,38 @@
+﻿{
+	"refreshing": {
+		"enabled": "refreshingEnabled",
+		"interval": "refreshingInterval"
+	},
+
+	"audio": {
+		"aspectRatio": "audioAspectRatio",
+		"autoplay": "audioAutoplay",
+		"delay": "audioDelay",
+		"enabled": "audioEnabled",
+		"loop": "audioLoop",
+		"volume": "audioVolume"
+	},
+
+	"image": {
+		"aspectRatio": "imageAspectRatio",
+		"borderWidth": "imageBorderwidth",
+		"delay": "imageDelay",
+		"enabled": "imageEnabled"
+	},
+
+	"pdf": {
+		"aspectRatio": "pdfAspectRatio",
+		"borderWidth": "pdfBorderwidth",
+		"delay": "pdfDelay",
+		"enabled": "pdfEnabled"
+	},
+
+	"video": {
+		"aspectRatio": "videoAspectRatio",
+		"autoplay": "videoAutoplay",
+		"delay": "videoDelay",
+		"enabled": "videoEnabled",
+		"loop": "videoLoop",
+		"volume": "videoVolume"
+	}
+}
