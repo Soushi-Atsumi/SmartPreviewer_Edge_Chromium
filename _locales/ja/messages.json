@@ -135,7 +135,7 @@
 	},
 
 	"tutorialImage1": {
-		"message": "「gif」、「gifv」、「ico」、「jpeg」、「jpg」、「png」及び「svg」形式のリンクに矢印を乗せると画像が自動的に表示されます。"
+		"message": "「bmp」、「gif」、「gifv」、「ico」、「jpeg」、「jpg」、「png」、「svg」及び「webp」形式のリンクに矢印を乗せると画像が自動的に表示されます。"
 	},
 
 	"tutorialImage2": {
@@ -176,7 +176,7 @@
 	},
 
 	"tutorialVideo1": {
-		"message": "「m3u8」、「mkv」、「mov」、「mp4」、「webm」及び「wmv」形式のリンクに矢印を乗せると動画が自動的に再生されます。"
+		"message": "「3gp」、「m3u8」、「mkv」、「mov」、「mp4」、「webm」及び「wmv」形式のリンクに矢印を乗せると動画が自動的に再生されます。"
 	},
 
 	"tutorialVideo2": {

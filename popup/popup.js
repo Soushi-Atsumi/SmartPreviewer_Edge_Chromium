@@ -18,10 +18,10 @@ function main() {
 	document.title = chrome.i18n.getMessage('popupHTMLTitle');
 	document.getElementById('extensionNameLabel').innerText = chrome.i18n.getMessage('extensionName');
 	document.getElementById('icon').alt = chrome.i18n.getMessage('iconImageAlt');
-	let indexPageAnchor = document.getElementById('indexPageAnchor');
-	indexPageAnchor.innerText = chrome.i18n.getMessage('openUsage');
-	indexPageAnchor.href = '/index.html';
-	let optionsPageAnchor = document.getElementById('optionsPageAnchor');
-	optionsPageAnchor.innerText = chrome.i18n.getMessage('openOptions');
-	optionsPageAnchor.href = '/options/options.html';
+	const INDEX_PAGE_ANCHOR = document.getElementById('indexPageAnchor');
+	INDEX_PAGE_ANCHOR.innerText = chrome.i18n.getMessage('openUsage');
+	INDEX_PAGE_ANCHOR.href = '/index.html';
+	const OPTIONS_PAGE_ANCHOR = document.getElementById('optionsPageAnchor');
+	OPTIONS_PAGE_ANCHOR.innerText = chrome.i18n.getMessage('openOptions');
+	OPTIONS_PAGE_ANCHOR.href = '/options/options.html';
 }

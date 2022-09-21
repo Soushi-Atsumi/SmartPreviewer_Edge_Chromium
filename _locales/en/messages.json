@@ -135,7 +135,7 @@
 	},
 
 	"tutorialImage1": {
-		"message": "An image is displayed when you put a cursor on a link of 'gif', 'gifv', 'ico', 'jpeg', 'jpg', 'png' and 'svg'."
+		"message": "An image is displayed when you put a cursor on a link of 'bmp', 'gif', 'gifv', 'ico', 'jpeg', 'jpg', 'png', 'svg' and 'webp'."
 	},
 
 	"tutorialImage2": {
@@ -176,7 +176,7 @@
 	},
 
 	"tutorialVideo1": {
-		"message": "A video is played when you put a cursor on a link of 'm3u8', 'mkv', 'mov', 'mp4', 'webm' and 'wmv'."
+		"message": "A video is played when you put a cursor on a link of '3gp', 'm3u8', 'mkv', 'mov', 'mp4', 'webm' and 'wmv'."
 	},
 
 	"tutorialVideo2": {
